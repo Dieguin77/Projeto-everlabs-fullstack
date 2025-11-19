@@ -1,2 +1,6 @@
-# Projeto-everlabs-fullstack
-Aplicação Fullstack desenvolvida para resolver. Conta com arquitetura escalável, no front-end e no back-end, focada em alta performance.
+# Projeto Everlabs Fullstack
+
+Aplicação desenvolvida com foco em arquitetura escalável e alta performance.
+Este projeto demonstra a construção de um sistema completo, integrando lógica complexa no Back-end com uma interface funcional no Front-end.
+
+🛠 **Tecnologias:** JavaScript, Node.js.
