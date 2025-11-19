@@ -1,2 +1,2 @@
 # Projeto-everlabs-fullstack
-Desafio Técnico para a vaga de Estagiário Full Stack Everlabs
+Aplicação Fullstack desenvolvida para resolver. Conta com arquitetura escalável, no front-end e no back-end, focada em alta performance.
